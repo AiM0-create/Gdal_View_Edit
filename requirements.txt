@@ -1,2 +1,6 @@
 streamlit
-pandas
+gdal
+fiona
+rasterio
+folium
+streamlit-folium
